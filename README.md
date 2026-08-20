@@ -190,15 +190,3 @@ npm run build
 - Dashboard behavior depends on Supabase tables such as profiles, complaints, notices, bookings, billing_records, leave_requests, visitor_requests, payment_vouchers, and staff.
 - The project includes a custom visual identity with golden accents and a hostel-themed landing page.
 
-## License
-
-This project is for educational and operational use within the hostel environment. Add an appropriate license if you plan to distribute or commercialize the application.
-
-## Contributing
-
-Contributions are welcome. For a clean workflow, create a feature branch and open a pull request with a concise summary of the change.
-
-## Contact
-
-For questions or support related to the hostel project, contact the project maintainer or hostel administration team.
-
